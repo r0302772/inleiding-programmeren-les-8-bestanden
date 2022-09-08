@@ -1,0 +1,3 @@
+﻿City Pirates;b;g;6;3
+Lierse;*;-;10;5
+Sport je fit;=;$;12;7
